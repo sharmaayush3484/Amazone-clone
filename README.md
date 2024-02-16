@@ -2,3 +2,6 @@
 Creating an Amazon clone using HTML, CSS, and JavaScript involves replicating the core features of the e-commerce giant.
 The HTML structure forms the foundation, defining page elements like headers, product listings, and checkout sections. 
 CSS styles enhance the visual appeal, ensuring a polished and responsive design. JavaScript adds dynamic functionality
+
+![Amazone clone1](https://github.com/sharmaayush3484/Amazone-clone/assets/143885201/de8c657d-f9ef-47f7-a74d-17f10b9a87cc)
+
